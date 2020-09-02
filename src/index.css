@@ -75,6 +75,11 @@
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
+.img-fluid {
+  width: 60%;
+  height: auto;
+}
+
 @-webkit-keyframes up-down{
   0%{
     transform: translateY(10px);

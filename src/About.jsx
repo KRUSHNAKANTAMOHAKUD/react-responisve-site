@@ -1,5 +1,5 @@
 import React from 'react';
-import web from './images/kkk_pic.jpg';
+import web from './images/kkk_pic.jpeg';
 import { NavLink } from 'react-router-dom';
 import Common from './Common';
 const About= () => {

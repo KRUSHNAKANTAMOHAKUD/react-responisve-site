@@ -1,35 +1,39 @@
-import android from './images/android.JPG';
-import digital from './images/digital.JPG';
-import marketing from './images/marketing.JPG';
-import software from './images/software.JPG';
-import nibbi from './images/nibbi.JPG';
-import nibba from './images/nibba.JPG';
+import android from './images/android.png';
+import digital from './images/digital.jpg';
+import marketing from './images/marketing.jpg';
+import web from './images/web.jpeg';
+import ios from './images/ios.png';
+import app from './images/app.jpeg';
 
 const Sdata =[
-{
-    imgsrc:android,
-    title:"Web Development",
-},
-{
-    imgsrc:digital,
-    title:"Digital India",
-},
-{
-    imgsrc:marketing,
-    title:"Marketing Development",
-},
-{
-    imgsrc:software,
-    title:"Software Development",
-},
-{
-    imgsrc:nibbi,
-    title:"Nibbi Development",
-},
-{
-    imgsrc:nibba,
-    title:"Nibba Development",
-},
+    {
+        imgsrc:web,
+        title:"WEB Development",
+    },
+    {
+        imgsrc:digital,
+        title:"Digital Marketing",
+    },  
+    
+    {
+        imgsrc:marketing,
+        title:"Marketing ",
+    },
+    {
+        imgsrc:android,
+        title:"Android Development",
+    },
+
+    {
+        imgsrc:ios,
+        title:"IOS Development",
+    },
+
+    {
+        imgsrc:app,
+        title:"APP Development",
+    },
+
 
 
 ]
